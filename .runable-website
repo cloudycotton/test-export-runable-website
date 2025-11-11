@@ -1,5 +1,5 @@
 {
-  "initialized": false,
+  "initialized": true,
   "stripeLiveConnected": false,
   "selectedTemplate": "default-website"
 }
