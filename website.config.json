@@ -1,13 +1,13 @@
 {
   "site": {
-    "name": "Minimal Starter",
-    "tagline": "Your Creative Canvas",
-    "description": "A clean, minimal starter template providing the perfect foundation for your next project. Built with modern tools and ready for your creativity.",
+    "name": "Todo App",
+    "tagline": "Organize Your Life",
+    "description": "A clean, modern todo application to help you stay organized and productive. Track tasks, mark them complete, and focus on what matters.",
     "ogImage": "/og-image.png",
     "twitterHandle": "",
     "contact": {
       "email": "contact@example.com",
-      "company": "Your Company",
+      "company": "Todo App",
       "address": ""
     },
     "legal": {
